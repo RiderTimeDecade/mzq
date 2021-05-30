@@ -1,0 +1,3 @@
+git config --global user.name "471642048@qq.com"
+git config --global user.email "471642048@qq.com"
+git clone https://github.com/RiderTimeDecade/mzq.git
